@@ -263,7 +263,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 ## BonjourSwift
-[https://github.com/ecnepsnai/BonjourSwift](https://github.com/ecnepsnai/BonjourSwift)
+
 ```
 Copyright (c) 2016 Ian Spence <ian@ecnepsnai.com>
 
