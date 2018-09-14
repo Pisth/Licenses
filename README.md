@@ -1,3 +1,21 @@
+# Acknowledgements
+This application makes use of the following third party libraries:
+
+- [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0)
+- [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication)
+- [BonjourSwift](https://github.com/ecnepsnai/BonjourSwift)
+- [GCDWebServer](https://github.com/swisspol/GCDWebServer)
+- [Google Toolbox for Mac](https://github.com/google/google-toolbox-for-mac)
+- [Keychain Swift](https://github.com/evgenyneu/keychain-swift)
+- [Highlightr](https://github.com/raspu/Highlightr)
+- [NMSSH](https://github.com/NMSSH/NMSSH)
+- [ObjectUserDefaults](https://github.com/ColdGrub1384/ObjectUserDefaults)
+- [PanelKit](https://github.com/louisdh/panelkit)
+- [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper)
+- [WhatsNew](https://github.com/BalestraPatrick/WhatsNew)
+- [Zip](https://github.com/marmelroy/Zip)
+- [nanopb](https://github.com/nanopb/nanopb)
+
 ## Pisth
 
 ```
@@ -203,9 +221,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-# Acknowledgements
-This application makes use of the following third party libraries:
 
 ## ActionSheetPicker-3.0
 
@@ -538,7 +553,7 @@ limitations under the License.
 ```
 
 ## KeychainSwift
-[https://github.com/evgenyneu/keychain-swift](https://github.com/evgenyneu/keychain-swift)
+
 ```
 The MIT License
 
