@@ -6,6 +6,7 @@ This application makes use of the following third party libraries:
 - [BonjourSwift](https://github.com/ecnepsnai/BonjourSwift)
 - [GCDWebServer](https://github.com/swisspol/GCDWebServer)
 - [Google Toolbox for Mac](https://github.com/google/google-toolbox-for-mac)
+- [ios_system](https://github.com/holzschu/ios_system)
 - [Keychain Swift](https://github.com/evgenyneu/keychain-swift)
 - [Highlightr](https://github.com/raspu/Highlightr)
 - [NMSSH](https://github.com/NMSSH/NMSSH)
